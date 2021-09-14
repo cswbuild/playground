@@ -1,4 +1,5 @@
-# Playground
+# Playground 
+*Name: Chelse Swoopes*
 
 A place to play with `git`.
 
